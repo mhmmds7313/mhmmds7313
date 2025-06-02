@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @mhmmds7313
-- 👀 I’m interested in everything using cybersecuriy to thrive and porsper in this field and life
-- 🌱 I’m currently studying for security+ certification
-- 💞️ I’m looking to collaborate on cloud security in future
-- 📫 How to reach me, email me aakibms@icloud.com
+# 👋 Hi, I’m Mohammad Akib Shaikh
 
+🛡️ Aspiring Cybersecurity Analyst | 🧠 Studying for Security+ | 🧰 Python + Linux + GitHub
 
+---
 
-<!---
-mhmmds7313/mhmmds7313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔐 My Cybersecurity Projects
+
+- [Python Security Tools 🛠️](https://github.com/mhmmds7313/python-security-tools)  
+  Port scanner, password strength checker, and file hash verifier in Python.
+
+---
+
+## 📚 Current Focus
+
+- CompTIA Security+ (SY0-701)
+- Building real-world cybersecurity tools
+- Learning SIEM, firewalls, threat detection, and endpoint security
+
+---
+
+## 🚀 Goals for 2025
+
+- Land an entry-level role in cybersecurity
+- Contribute to open-source security tools
+- Build a strong public GitHub portfolio
+
+---
+
+## 📬 Get in Touch
+
+- 📧 aakibms@icloud.com  
+- 🌐 [GitHub Profile](https://github.com/mhmmds7313)
