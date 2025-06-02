@@ -4,10 +4,15 @@
 
 ---
 
-## 🔐 My Cybersecurity Projects
+🔐 My Cybersecurity Projects
 
-- [Python Security Tools 🛠️](https://github.com/mhmmds7313/python-security-tools)  
-  Port scanner, password strength checker, and file hash verifier in Python.
+Python Security Tools 🛠️
+A suite of Python scripts including:
+Network port scanner
+Password strength checker
+File hash verifier
+Log file analyzer CLI tool with date filtering, log level summary, color-coded terminal output, and CSV report generation
+Real-time log monitor for tracking live log file updates
 
 ---
 
