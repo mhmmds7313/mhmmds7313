@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mohammad Akib Shaikh
 
-🛡️ Aspiring Cybersecurity Analyst | 🧠 Studying for Security+ | 🧰 Python + Linux + GitHub
+🛡️ Cybersecurity | 🧰 Python + Linux + GitHub
 
 ---
 
@@ -24,17 +24,11 @@ Real-time log monitor for tracking live log file updates
 
 ## 📚 Current Focus
 
-- CompTIA Security+ (SY0-701)
-- Building real-world cybersecurity tools
+- Studying for AWS CAA-200
+- Building real-world Cloud security tools
 - Learning SIEM, firewalls, threat detection, and endpoint security
 
----
 
-## 🚀 Goals for 2025
-
-- Land an entry-level role in cybersecurity
-- Contribute to open-source security tools
-- Build a strong public GitHub portfolio
 
 ---
 
