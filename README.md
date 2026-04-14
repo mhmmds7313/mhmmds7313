@@ -24,6 +24,8 @@ Real-time log monitor for tracking live log file updates
 
 ## 📚 Current Focus
 
+- SPLUNK
+
 - SOC Analyst L1
 
 
