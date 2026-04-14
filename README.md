@@ -24,9 +24,8 @@ Real-time log monitor for tracking live log file updates
 
 ## 📚 Current Focus
 
-- Studying for AWS CAA-200
-- Building real-world Cloud security tools
-- Learning SIEM, firewalls, threat detection, and endpoint security
+- SOC Analyst L1
+
 
 
 
