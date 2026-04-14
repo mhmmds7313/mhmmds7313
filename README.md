@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mohammad Akib Shaikh
 
-🛡️ Cybersecurity | 🧰 Python + Linux + GitHub
+🛡️ Cybersecurity | SOC Analyst | 🧰 Python + Linux + GitHub
 
 ---
 
